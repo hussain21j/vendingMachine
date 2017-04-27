@@ -39,9 +39,6 @@ public class VendingMachineImpl implements VendingMachine {
 	// Item selected to purchase
 	private Item itemSelected;
 	
-	
-	
-
 	/**
 	 * Parameterized constructor for the class, can be used to inject the member variables
 	 * @param cashInventory
